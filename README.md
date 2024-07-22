@@ -10,9 +10,23 @@ A library system specifically made to meet the requirements of the San Jose City
 - Multiple Variable Auto Fee Calculation
 - Reports
 - Create and Restore Backup
-## Previews
+## Preview
+<p align="center">
+<img src="docs/main_form.jpg" height="500"/>
+</p>
 
-
-![LoginForm](docs/login_form.jpg) ![BookFeeForm](docs/backup_and_restore_form.jpg) ![BookFeeForm](docs/book_fee_form.jpg)
-[<img src="docs/main_form.jpg" width="500"/>](docs/main_form.jpg) [<img src="docs/log_history_form.jpg" width="400"/>](docs/log_history_form.jpg)
-[<img src="docs/transactions_form.jpg" width="500"/>](docs/transactions_form.jpg) [<img src="docs/reports_form.jpg" width="400"/>](docs/reports_form.jpg)
+<details>
+<summary>More Preview</summary>
+<p align="center">
+<img src="docs/accounts_list_form.jpg" height="300"/>
+<img src="docs/backup_and_restore_form.jpg"  height="300"/>
+<img src="docs/book_fee_form.jpg"  height="300"/>
+<img src="docs/clients_form.jpg"  height="300"/>
+<img src="docs/create_account_form.jpg"  height="300"/>
+<img src="docs/forgot_password_form.jpg"  height="300"/>
+<img src="docs/log_history_form.jpg"  height="300"/>
+<img src="docs/login_form.jpg"  height="300"/>
+<img src="docs/reports_form.jpg"  height="300"/>
+<img src="docs/transactions_form.jpg"  height="300"/>
+</p>
+</details>

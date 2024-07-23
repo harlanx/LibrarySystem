@@ -1,6 +1,6 @@
 # San Jose City Library System
 
-A library system specifically made to meet the requirements of the San Jose City Library with the objective in entirely replacing the old library system with updated UI and additional functionalities.
+A library system specifically made to meet the requirements of the San Jose City Library with the objective of updated UI and additional functionalities.
 
 ## Features
 
